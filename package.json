@@ -14,8 +14,7 @@
     "install": "npm run napa",
     "lint": "react-scripts lint",
     "napa": "napa",
-    "start": "node server",
-    "react start": "react-app-rewired start",
+    "start": "react-app-rewired start",
     "test": "react-app-rewired test --env=jsdom",
     "postinstall-heroku": "npm run build"
   },

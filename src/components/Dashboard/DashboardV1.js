@@ -241,7 +241,7 @@ class DashboardV1 extends Component {
                         </Row>
                         { /* END chart */ }
                     </Col>
-                    </Row>
+                </Row>
                 
             </ContentWrapper>
             );
